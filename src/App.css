@@ -1,0 +1,10 @@
+.main{
+  margin-left: 110px;/*jab aside ka border mai kuchh change kare to is mai jarur kare*/
+
+}
+
+@media screen and (max-width: 1024px){
+  .main{
+    margin-left: 0;
+  }
+}
